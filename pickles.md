@@ -26,3 +26,5 @@ Q: Why did the pickle cross the road?
 * Good pickles have an audible crunch at 10 paces. This can be measured at "crunch-off" using the "scientific" device known as the Audible Crunch Meter. Pickles that can be heard at only one pace are known as denture dills. 
 
 [^1]: https://www.ilovepickles.org/pickle-facts/crazy-facts/a-peck-of-perfectly-plausible-pickle-and-pickled-pepper-facts/#:~:text=Pickling%20is%20one%20of%20the,percent%20of%20all%20pickle%20sales.
+
+Did this work?
